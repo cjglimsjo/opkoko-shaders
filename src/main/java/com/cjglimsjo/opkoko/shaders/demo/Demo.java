@@ -30,6 +30,14 @@ public class Demo extends GameLogic {
                 -0.5f, -0.5f, 0.0f,
                 0.5f, -0.5f, 0.0f,
                 0.5f, 0.5f, 0.0f
+        }, new float[]{
+                0.0f, 0.5f, 0.0f,
+                1.0f, 0.5f, 1.0f,
+                0.0f, 0.5f, 1.0f,
+
+                0.0f, 0.5f, 0.0f,
+                1.0f, 0.5f, 0.0f,
+                1.0f, 0.5f, 1.0f
         });
     }
 
